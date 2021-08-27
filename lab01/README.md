@@ -4,4 +4,4 @@
 ## Tarefa 1 sobre APIs de acesso
 [Notebook](https://github.com/FelipePM01/MC536Lab/blob/main/lab01/notebook/lab01-api.ipynb)
 ## Tarefa 2 sobre Engenharia Reversa
-![Modelo Conceitual](/images/modeloconceitual.jpg)
+![Modelo Conceitual](/images/modeloconceitual.png)
